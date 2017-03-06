@@ -1,20 +1,5 @@
-## このプロジェクトについて
 
-A-Frameのわりと本格的なプロダクトを作るための雛形です
-
-以下の手順で展開してください。
-
-1. `git clone git@github.com:jujunjun110/aframe-application-boilerplate.git`
-2. `cd aframe-application-boilerplate && rm -rf .git`
-3. `git remote add {reponame.git}` ... プロジェクトのリモートリポジトリを正しく設定
-4. `npm install` 
-5. `npm run unboil` ... package.json 等にプロジェクトネームやgitリポジトリを適切に設定できます。
-
-↓↓ 以下ビルド後の説明用。unboilでこの下だけが残ります。 ↓↓
-
---trim--
-
-# project-name
+# stereo-cam
 
 ## プロジェクトのインストール
 

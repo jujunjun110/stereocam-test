@@ -1,7 +1,7 @@
 {
-  "name": "project-name",
+  "name": "stereo-cam",
   "version": "1.0.0",
-  "description": "project-name",
+  "description": "stereo-cam",
   "main": "index.js",
   "scripts": {
     "start": "npm run dev",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jujunjun110/aframe-application-boilerplate.git"
+    "url": "git+https://github.com/jujunjun110/stereocam-test.git"
   },
   "keywords": [
     "aframe",
@@ -25,12 +25,12 @@
     "vr",
     "webvr"
   ],
-  "author": "jujunjun110 <https://twitter.com/jujunjun110>",
+  "author": "jujunjun110",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jujunjun110/aframe-application-boilerplate/issues"
+    "url": "https://github.com/jujunjun110/stereocam-test/issues"
   },
-  "homepage": "https://github.com/jujunjun110/aframe-application-boilerplate#readme",
+  "homepage": "https://github.com/jujunjun110/stereocam-test#readme",
   "devDependencies": {
     "babel-eslint": "^7.1.1",
     "babel-preset-es2015": "^6.22.0",
