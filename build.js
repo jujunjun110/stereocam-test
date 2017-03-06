@@ -48,12 +48,9 @@
 
                     // DELETED HERE.
 
-                    // if (this.el.getAttribute("material") !== null && 'src' in this.el.getAttribute("material"))
-                    // && document.querySelector(this.el.getAttribute("material").src)!== null
-                    // && document.querySelector(this.el.getAttribute("material").src).tagName === "VIDEO")
-                    // {
-                    //     this.material_is_a_video = true;
-                    // }
+                    if (this.el.getAttribute("material") !== null && 'src' in this.el.getAttribute("material") && this.el.getAttribute("material").src !== null && this.el.getAttribute("material").src.tagName === "VIDEO") {
+                        this.material_is_a_video = true;
+                    }
 
                     var object3D = this.el.object3D.children[0];
 
